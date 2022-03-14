@@ -1,17 +1,9 @@
-### [Foobar](https://foobar.com)
-
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    git clone https://github.com/dracula/foobar.git
-
-#### Install manually
-
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
+### [Noir](https://getnoir.app)
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Go to "Settings" tab
+2. Select "Theme" item
+3. Choose "Dracula" option
+
+> Note: this theme is a built-in functionality available as part of the Noir app.
